@@ -1,0 +1,10 @@
+{
+	"id": "mongodb-sync",
+	"name": "MongoDB Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
